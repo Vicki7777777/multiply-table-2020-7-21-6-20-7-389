@@ -1,4 +1,4 @@
-1.CreateMultiplyTable
+1.GetMutiplicationTable
 P:10mins
 D:12mins
 C:Not familiar with importing the environment into vscode and running it for a long time.
@@ -10,7 +10,7 @@ D:4mins
 C:Through a relatively simple code, the validity of the input is checked,Save time
 A:But there are more ways to improve the efficiency of code operation
 
-3.GetMutiplicationTable
+3.PrintAllLine
 P:10mins
 D:15mins
 C:There is no null value check, which results in an error. It took a while to correct the mistakes
