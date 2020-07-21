@@ -1,0 +1,23 @@
+1.CreateMultiplyTable
+P:10mins
+D:12mins
+C:Not familiar with importing the environment into vscode and running it for a long time.
+A:Practice vscode programming software repeatedly, familiar with workspace construction and code debugging.
+
+2.IsVaild
+P:5mins
+D:4mins
+C:Through a relatively simple code, the validity of the input is checked,Save time
+A:But there are more ways to improve the efficiency of code operation
+
+3.GetMutiplicationTable
+P:10mins
+D:15mins
+C:There is no null value check, which results in an error. It took a while to correct the mistakes
+A:Need to improve the ability to debug, learn to find bugs efficiently through debugging
+
+4.PrintLine
+P:10mins
+D:15mins
+C:It is caused by familiarity with string splicing and tab complement
+A:Strengthen the string splicing and tab practice and summary
