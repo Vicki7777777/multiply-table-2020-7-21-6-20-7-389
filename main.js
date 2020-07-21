@@ -1,7 +1,7 @@
-function createMultiplyTable(start, end) {
+function GetMutiplicationTable(start, end) {
 
   if(IsVaild(start, end)){
-    return GetMutiplicationTable(start, end);
+    return PrintAllLine(start, end);
   }else{
     return null;
   }
@@ -19,7 +19,7 @@ function IsVaild(start, end){
   return flag;
 }
 
-function GetMutiplicationTable(start, end){
+function PrintAllLine(start, end){
   var result = new Array();
   for(let i = start;i<=end;i++){
     let str = PrintLine(start,i)
